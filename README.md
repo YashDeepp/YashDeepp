@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **NLP and Transformers**
 
-- 🤝 I’m looking for help with **Ternsorflow and PyTorch**
+- 🤝 Reach me out for help with **Ternsorflow and PyTorch**
 
 - 📫 How to reach me **yashdeepgkp19@gmail.com**
 
