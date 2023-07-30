@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashdeepp&label=Profile%20views&color=0e75b6&style=flat" alt="yashdeepp" /> </p>
 
-- 🔭 I’m currently working on **Computer Vision**
+- 🔭 I’m currently working on **Computer Vision, NLP and Transformers**
 
-- 🌱 I’m currently learning **NLP and Transformers**
+- 🌱 I’m currently learning **DevOps**
 
 - 🤝 Reach me out for help with **Ternsorflow and PyTorch**
 
